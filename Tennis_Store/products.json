@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Tennis Racquet",
+        "price": 20.99,
+        "image": { "fields": { "file": { "url": "./images/product-9.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "tennis ballcan",
+        "price": 5.99,
+        "image": { "fields": { "file": { "url": "./images/product-10.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "shoes",
+        "price": 60.99,
+        "image": { "fields": { "file": { "url": "./images/product-11.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "T-shirt",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/product-12.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "strings",
+        "price": 15.99,
+        "image": { "fields": { "file": { "url": "./images/product-13.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "bag",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "./images/product-14.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "grips",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./images/product-15.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "headband",
+        "price": 13.99,
+        "image": { "fields": { "file": { "url": "./images/product-16.jpeg" } } }
+      }
+    }
+  ]
+}
